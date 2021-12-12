@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hilful" alt="hilful" /></a> </p>
 
-- 💬 Ask me about **React, Node and JavaScript.**
+- 💬 Ask me about **React, Node and JavaScript,HTML,CSS or its associated frameworks.**
 
 - 📫 How to reach me **hilful25@gmail.com**
 
