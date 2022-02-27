@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Node and JavaScript,TypeScript,MongoDB,HTML,CSS or its associated frameworks.**
 
-- 📫 How to reach me **hilful25@gmail.com**
+- 📫 E-mail me at **hilful25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
